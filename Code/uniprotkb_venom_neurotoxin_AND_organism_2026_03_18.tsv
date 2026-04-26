@@ -1,0 +1,15 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	3D	AlphaFoldDB
+C0HM08	reviewed	3S12_NAJNA	Alpha-elapitoxin-Nn2a (Short neurotoxin 2) (Short-chain alpha-neurotoxin Nn2a)		Naja naja (Indian cobra)	62		
+C0HM09	reviewed	3L27_NAJNA	Alpha-elapitoxin-Nn3a (Long neurotoxin 7) (Long-chain alpha-neurotoxin Nn3a)		Naja naja (Indian cobra)	71		
+P25668	reviewed	3L21_NAJNA	Long neurotoxin 1 (Toxin A)		Naja naja (Indian cobra)	71		P25668;
+P25671	reviewed	3L23_NAJNA	Long neurotoxin 3 (Toxin C)		Naja naja (Indian cobra)	71	X-ray crystallography (1)	P25671;
+P25672	reviewed	3L24_NAJNA	Long neurotoxin 4 (Toxin D)		Naja naja (Indian cobra)	71		P25672;
+Q9PTT0	reviewed	3S1CB_NAJNA	Cobrotoxin homolog (Short neurotoxin)		Naja naja (Indian cobra)	83	NMR spectroscopy (1)	Q9PTT0;
+P25669	reviewed	3L22_NAJNA	Long neurotoxin 2 (Toxin B)		Naja naja (Indian cobra)	71		P25669;
+P25673	reviewed	3L25_NAJNA	Long neurotoxin 5 (Toxin E)		Naja naja (Indian cobra)	71		P25673;
+P29179	reviewed	3NO25_NAJNA	Weak neurotoxin 5		Naja naja (Indian cobra)	62		P29179;
+P29180	reviewed	3NO26_NAJNA	Weak neurotoxin 6		Naja naja (Indian cobra)	65		P29180;
+P29181	reviewed	3NO27_NAJNA	Weak neurotoxin 7		Naja naja (Indian cobra)	65		P29181;
+P29182	reviewed	3NO28_NAJNA	Weak neurotoxin 8		Naja naja (Indian cobra)	65		P29182;
+P86543	reviewed	CRVP1_NAJNA	Cysteine-rich venom protein (CRVP) (Cysteine-rich secretory protein 1) (CRISP1) (Cysteine-rich secretory protein 2) (CRISP2) (Najanajin)		Naja naja (Indian cobra)	33		P86543;
+P86544	reviewed	3SO8_NAJNA	Muscarinic toxin-like protein 1 (MTLP-1) (Muscarinic toxin-like protein 2) (MTLP-2)		Naja naja (Indian cobra)	26		P86544;

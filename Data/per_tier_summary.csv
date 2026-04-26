@@ -1,0 +1,7 @@
+,plddt_binder,plddt_binder,plddt_binder,plddt_target,plddt_target,plddt_target,binder_aligned_rmsd,binder_aligned_rmsd,binder_aligned_rmsd
+,count,mean,median,count,mean,median,count,mean,median
+tier,,,,,,,,,
+excellent,17,84.15,85.11,17,88.76,88.06,17,1.04,0.97
+good,8,73.25,74.28,8,86.54,86.81,8,1.49,1.36
+marginal,16,71.97,74.3,16,87.52,87.07,16,3.05,2.42
+poor,855,72.09,76.1,855,91.34,91.47,855,4.22,2.46
