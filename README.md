@@ -1,5 +1,5 @@
 # Scaffold-Guided Protein Design for Three-Finger Toxin (3FTx) Binders
-![forgithub](https://github.com/shantanuyadav19/de-Novo-Protein-Design/data/poster)
+![forgithub](https://github.com/shantanuyadav19/de-Novo-Protein-Design/data/poster.png)
 
 ## Overview
 
